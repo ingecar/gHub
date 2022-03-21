@@ -1,1 +1,1 @@
-# gHub
+# Este proyecto es para usarlo como practica de Git & GitHub
